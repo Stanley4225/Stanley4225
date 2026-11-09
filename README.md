@@ -1,16 +1,27 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**Stanley4225/Stanley4225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stanley Sakyi-Hyde, a Computer Science Student studying at Trent University. 
 
-Here are some ideas to get you started:
+I mostly work on both front-end and back-end stuff like React, Typescript, HTML, CSS, Javascript etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work in VS code most of the time.
+
+This is a profile where I would uploading some of the projects I have worked on or currently working on. Everything here is built from the scratch. No copy/paste template.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Tools & Tech
+
+💻  HTML, CSS, Javascript
+
+💻    React Typescript
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+A Bit About Me 
+
+✔️✔️ I am a professional photographer and videographer (Freelance).
+
+✔️✔️ I something like to start my day with a cup of coffee.
+ 
+✔️✔️ I'm a very free-spirited and outgoing person.
